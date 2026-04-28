@@ -1,0 +1,11 @@
+# Core Scientific & Data Processing
+numpy
+scipy
+matplotlib
+
+# Machine Learning & Deep Learning
+torch
+scikit-learn
+
+# Web Application Framework
+streamlit
